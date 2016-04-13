@@ -1,50 +1,22 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
-comments: true
+description: 关于
+keywords: ingress
+comments: false
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+## 欢迎加入泛大潮汕抵抗军！
 
-仰慕「优雅编码的艺术」。
+面对岌岌可危的世界
 
-## 坚信
+我们需要您的力量拯救人类
 
-* 熟能生巧
-* 努力改变人生
+抵抗外星人Shapers的入侵！
 
-## 联系
+加入抵抗军不用钱！！只要你拥有一部手机，我们抵抗军新手训练营将手把手带您进入一个浩瀚的全新世界！更有可爱妹纸/俊俏帅哥线下贴身教学！加入全球第一个现实虚拟手机游戏Ingress！选择抵抗军，一起抵御外星人的入侵！
 
-* GitHub：[@mzlogin](https://github.com/mzlogin)
-* LinkedIn：[@mazhuang](https://www.linkedin.com/in/mazhuang)
-* 博客：[{{ site.title }}]({{ site.url }})
-* 微博: [@mzlogin](http://weibo.com/mzlogin)
-* 知乎: [@mzlogin](http://www.zhihu.com/people/mzlogin)
-* 豆瓣: [@壮哥不胖](http://www.douban.com/people/freedim)
-
-## Skill Keywords
-
-#### Software Engineer Keywords
-<div class="btn-inline">
-    {% for keyword in site.skill_software_keywords %}
-    <button class="btn btn-outline" type="button">{{ keyword }}</button>
-    {% endfor %}
-</div>
-
-#### Mobile Developer Keywords
-<div class="btn-inline">
-    {% for keyword in site.skill_mobile_app_keywords %}
-    <button class="btn btn-outline" type="button">{{ keyword }}</button>
-    {% endfor %}
-</div>
-
-#### Windows Developer Keywords
-<div class="btn-inline">
-    {% for keyword in site.skill_windows_keywords %}
-    <button class="btn btn-outline" type="button">{{ keyword }}</button>
-    {% endfor %}
-</div>
+这里的潮汕并非严格意义的行政划分，古有海阳县、潮阳县、饶平县、普宁县、澄海县、惠来县、 丰顺县、揭阳县为传统的潮州八邑，遵照传统及地域，故称泛大潮汕。我们来自汕头、揭阳、潮州、梅州、汕
+尾、福建诏安等。

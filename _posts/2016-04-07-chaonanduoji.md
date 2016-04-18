@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 潮南剁鸡行动
-categories: missionreport
+author: 馒头
+categories: 战报
 description: 4月2日潮南行动战报
 keywords: ingress report
 excerpt_separator: <!--more-->

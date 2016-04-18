@@ -13,9 +13,11 @@ permalink: /links/
 ### 游戏教程
 * [蓝精灵教程](https://goo.gl/BoFe3A) (广蓝编写，PDF)
 * [Ingress初学者教程系列](http://bjres.net/learning/) (北蓝网站提供的视频教程)
+* [Ingress训练营](http://ingress.tw/bootcamp/view/3/zh-tw)(台湾)
 
 ### 工具类
-* [IITC（Ingress Intel Total Conversion）](https://goo.gl/VsvrL8)
+* [IITC（Ingress Intel Total Conversion）](http://iitc.jonatkins.com/)
+* [IITC教程](https://goo.gl/VsvrL8)(广蓝编写)
 * [IngressMapCN](https://telegram.me/IngressMapCNBot) (Telegram机器人,可发送位置给机器人查看附近地图)
 * [Missionset](http://www.giacintogarcea.com/ingress/tools/missionset/) (申请拼图任务切片工具)
 * [IngressMissionMap](http://ingressmm.com/) (岛国弄的可以查看任务的网站)

@@ -19,7 +19,7 @@ source_code: https://github.com/chaoshanres/chaoshanres.github.io
 author: ransomzhang
 organization: Ingress Resistence
 organization_url: https://www.ingress.com
-location: ChaoShan, China
+location: China
 email: zhangransom@gmail.com
 
 # ---------------- #
@@ -39,8 +39,8 @@ navs:
     label: 入门
 
   -
-    href: /links/
-    label: 链接
+    href: /advance/
+    label: 进阶
 
   -
     href: /about/
@@ -71,10 +71,10 @@ gems:
     - jekyll-feed
 #    - jemoji
 #     - jekyll-mentions
-collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
+#collections:
+#    wiki:
+#        output: true
+#        permalink: /wiki/:path/
 
 # ---------------- #
 #      Socials     #

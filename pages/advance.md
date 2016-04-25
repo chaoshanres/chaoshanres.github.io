@@ -10,6 +10,10 @@ permalink: /advance/
 
 > 这个世界上有很多善良。还有很多邪恶。善良恪守准则，邪恶无所顾忌，善良有所为有所不为，邪恶肆无忌惮，善良是要保护，邪恶是要破坏，而破坏从来比守护来得容易。--- Paladin 梅菲斯
 
+### 进阶篇
+* 多重教程
+* [关于创建任务与任务审核的一切](http://ingresscn.com/blog/all-about-creating-mission.html)
+
 ### 工具类
 * [IITC（Ingress Intel Total Conversion）](http://iitc.jonatkins.com/)
 * [IITC教程](https://goo.gl/VsvrL8)(广蓝编写)

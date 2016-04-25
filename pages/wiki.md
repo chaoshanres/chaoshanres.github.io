@@ -19,4 +19,4 @@ permalink: /wiki/
 * [蓝精灵教程](https://goo.gl/BoFe3A) (广蓝编写，PDF)
 * [Ingress初学者教程系列](http://bjres.net/learning/) (北蓝网站提供的视频教程)
 * [Ingress训练营](http://ingress.tw/bootcamp/view/3/zh-tw)(台湾)
-* [Ingress 中文游戏指南](https://hz-ingress.gitbooks.io/ingress-tutorial/content)
+* [Ingress 中文游戏指南](https://hz-ingress.gitbooks.io/ingress-tutorial/content)（未完稿）

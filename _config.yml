@@ -62,7 +62,7 @@ paginate: 8
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
-permalink: /:title.html
+permalink: /:month:day:title.html
 gems:
     - rouge
 #     - jekyll-html-pipeline
